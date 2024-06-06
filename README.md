@@ -1,4 +1,4 @@
-# Sabbath Crew Landing Page
+# [Sabbath Crew Landing Page[(https://chetpls.github.io/sbc-landing-page/)
 
 This is a landing page for the cycling crew "Sabbath Crew" from the webtoon "WindBreaker." The page features various sections highlighting the crew members, quotes from the webtoon, and a call-to-action button for sign-ups. All images used are from the webtoon "WindBreaker."
 
